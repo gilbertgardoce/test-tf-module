@@ -2,7 +2,7 @@
 test datadog dashboard module
 
 #Requirements
-1. Terraform < v1.4
+1. Terraform < v1.2
 2. Datadog >= 3.16.0,3.17.0
 
 
