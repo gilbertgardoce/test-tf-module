@@ -1,5 +1,5 @@
-# pd-growth-tf-module-datadog-dashboard
-datadog dashboard module for pandora growth tribe
+# tf-module-datadog-dashboard
+test datadog dashboard module
 
 #Requirements
 1. Terraform < v1.4
